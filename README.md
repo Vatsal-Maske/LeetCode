@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Vatsal-Maske/LeetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Vatsal-Maske/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0645-set-mismatch](https://github.com/Vatsal-Maske/LeetCode/tree/master/0645-set-mismatch) |
+| [0724-find-pivot-index](https://github.com/Vatsal-Maske/LeetCode/tree/master/0724-find-pivot-index) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Vatsal-Maske/LeetCode/tree/master/0645-set-mismatch) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Vatsal-Maske/LeetCode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
