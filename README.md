@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vatsal-Maske/LeetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Vatsal-Maske/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0645-set-mismatch](https://github.com/Vatsal-Maske/LeetCode/tree/master/0645-set-mismatch) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -17,4 +18,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vatsal-Maske/LeetCode/tree/master/0053-maximum-subarray) |
+## Hash Table
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Vatsal-Maske/LeetCode/tree/master/0645-set-mismatch) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Vatsal-Maske/LeetCode/tree/master/0645-set-mismatch) |
+## Sorting
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Vatsal-Maske/LeetCode/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
