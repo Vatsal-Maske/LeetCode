@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Vatsal-Maske/LeetCode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Vatsal-Maske/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Vatsal-Maske/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Vatsal-Maske/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Vatsal-Maske/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Vatsal-Maske/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Vatsal-Maske/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -60,11 +61,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Vatsal-Maske/LeetCode/tree/master/0007-reverse-integer) |
+| [0189-rotate-array](https://github.com/Vatsal-Maske/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Vatsal-Maske/LeetCode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vatsal-Maske/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Vatsal-Maske/LeetCode/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
