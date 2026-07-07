@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Vatsal-Maske/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Vatsal-Maske/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Vatsal-Maske/LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Vatsal-Maske/LeetCode/tree/master/0283-move-zeroes) |
 | [0645-set-mismatch](https://github.com/Vatsal-Maske/LeetCode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Vatsal-Maske/LeetCode/tree/master/0724-find-pivot-index) |
 ## Dynamic Programming
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vatsal-Maske/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Vatsal-Maske/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Vatsal-Maske/LeetCode/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
