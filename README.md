@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Vatsal-Maske/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Vatsal-Maske/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Vatsal-Maske/LeetCode/tree/master/0724-find-pivot-index) |
+| [2187-minimum-time-to-complete-trips](https://github.com/Vatsal-Maske/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vatsal-Maske/LeetCode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Vatsal-Maske/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Vatsal-Maske/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [2187-minimum-time-to-complete-trips](https://github.com/Vatsal-Maske/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 ## Counting
 |  |
 | ------- |
