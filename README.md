@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vatsal-Maske/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Vatsal-Maske/LeetCode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Vatsal-Maske/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Vatsal-Maske/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Vatsal-Maske/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Vatsal-Maske/LeetCode/tree/master/0268-missing-number) |
