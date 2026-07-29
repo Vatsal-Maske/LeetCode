@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Vatsal-Maske/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Vatsal-Maske/LeetCode/tree/master/0724-find-pivot-index) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Vatsal-Maske/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Vatsal-Maske/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Vatsal-Maske/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 ## Dynamic Programming
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Vatsal-Maske/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Vatsal-Maske/LeetCode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Vatsal-Maske/LeetCode/tree/master/0645-set-mismatch) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Vatsal-Maske/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Vatsal-Maske/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Vatsal-Maske/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Vatsal-Maske/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Vatsal-Maske/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Vatsal-Maske/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 ## Counting
 |  |
