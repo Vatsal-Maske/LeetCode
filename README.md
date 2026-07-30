@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Vatsal-Maske/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vatsal-Maske/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Vatsal-Maske/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Vatsal-Maske/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Vatsal-Maske/LeetCode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Vatsal-Maske/LeetCode/tree/master/0645-set-mismatch) |
 ## Bit Manipulation
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Vatsal-Maske/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vatsal-Maske/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Vatsal-Maske/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Vatsal-Maske/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Vatsal-Maske/LeetCode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Vatsal-Maske/LeetCode/tree/master/0645-set-mismatch) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Vatsal-Maske/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vatsal-Maske/LeetCode/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Vatsal-Maske/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
