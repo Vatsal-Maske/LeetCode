@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Vatsal-Maske/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Vatsal-Maske/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vatsal-Maske/LeetCode/tree/master/0283-move-zeroes) |
+| [0542-01-matrix](https://github.com/Vatsal-Maske/LeetCode/tree/master/0542-01-matrix) |
 | [0645-set-mismatch](https://github.com/Vatsal-Maske/LeetCode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Vatsal-Maske/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Vatsal-Maske/LeetCode/tree/master/0713-subarray-product-less-than-k) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vatsal-Maske/LeetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Vatsal-Maske/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0542-01-matrix](https://github.com/Vatsal-Maske/LeetCode/tree/master/0542-01-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Vatsal-Maske/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Vatsal-Maske/LeetCode/tree/master/0054-spiral-matrix) |
+| [0542-01-matrix](https://github.com/Vatsal-Maske/LeetCode/tree/master/0542-01-matrix) |
 ## Simulation
 |  |
 | ------- |
@@ -137,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Vatsal-Maske/LeetCode/tree/master/0242-valid-anagram) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/Vatsal-Maske/LeetCode/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
