@@ -4,7 +4,6 @@ class Solution {
         int end = nums.length-1;
         while(start<=end){
             int mid = start+(end-start)/2;
-            
             if (start==end){
                 return nums[start];
             }
@@ -17,7 +16,6 @@ class Solution {
             if(mid+1<=nums.length){
                 nextValue = nums[mid+1];
             }
-
             if(currentValue!=prevValue && currentValue !=nextValue){
                 return currentValue;
             }
@@ -25,11 +23,8 @@ class Solution {
                 int startingIndexcurrent = mid;
                 if((startingIndexcurrent & 1)==1){
                     end = mid-1;
-
-
                 }else{
                     start = mid+1;
-
                 }
             }
             else if(currentValue == prevValue && currentValue!=nextValue){
