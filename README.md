@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Vatsal-Maske/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Vatsal-Maske/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Vatsal-Maske/LeetCode/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/Vatsal-Maske/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/Vatsal-Maske/LeetCode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Vatsal-Maske/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vatsal-Maske/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vatsal-Maske/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vatsal-Maske/LeetCode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Vatsal-Maske/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vatsal-Maske/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Vatsal-Maske/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vatsal-Maske/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Vatsal-Maske/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Vatsal-Maske/LeetCode/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/Vatsal-Maske/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0542-01-matrix](https://github.com/Vatsal-Maske/LeetCode/tree/master/0542-01-matrix) |
 ## Simulation
 |  |
