@@ -13,7 +13,7 @@ class Solution {
     public int minimizedMaximum(int n, int[] quantities) {
 
         int low = 1;
-        int high = 1;
+        int high = 0;
 
         for (int q : quantities) {
             high = Math.max(high, q);
