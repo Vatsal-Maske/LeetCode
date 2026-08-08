@@ -1,13 +1,14 @@
 class Solution {
-    private boolean canDistribute(int maxPerStore, int n, int[] quantities) {
 
-        int storesNeeded = 0;
+    public boolean isValid(int mid, int n, int[] quantities) {
+
+        int stores = 0;
 
         for (int q : quantities) {
-            storesNeeded += (q + maxPerStore - 1) / maxPerStore;
+            stores += (q + mid - 1) / mid;
         }
 
-        return storesNeeded <= n;
+        return stores <= n;
     }
 
     public int minimizedMaximum(int n, int[] quantities) {
@@ -25,7 +26,7 @@ class Solution {
 
             int mid = low + (high - low) / 2;
 
-            if (canDistribute(mid, n, quantities)) {
+            if (isValid(mid, n, quantities)) {
                 ans = mid;
                 high = mid - 1;
             } else {
@@ -35,5 +36,4 @@ class Solution {
 
         return ans;
     }
-
 }
