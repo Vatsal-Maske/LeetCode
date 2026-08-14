@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Vatsal-Maske/LeetCode/tree/master/0054-spiral-matrix) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Vatsal-Maske/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Linked List
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Vatsal-Maske/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Vatsal-Maske/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Vatsal-Maske/LeetCode/tree/master/0344-reverse-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Vatsal-Maske/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Vatsal-Maske/LeetCode/tree/master/0045-jump-game-ii) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Vatsal-Maske/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Vatsal-Maske/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
