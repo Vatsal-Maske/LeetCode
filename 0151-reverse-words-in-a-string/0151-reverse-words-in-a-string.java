@@ -1,6 +1,6 @@
 class Solution {
     public String reverseWords(String s) {
-        StringBuilder ans = new StringBuilder();
+        StringBuffer ans = new StringBuffer();
         int i = s.length()-1;
         while(i>=0){
             //ye traling space ko remove karega
