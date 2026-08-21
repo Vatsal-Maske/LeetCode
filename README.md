@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Vatsal-Maske/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Vatsal-Maske/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Vatsal-Maske/LeetCode/tree/master/0066-plus-one) |
+| [0172-factorial-trailing-zeroes](https://github.com/Vatsal-Maske/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Vatsal-Maske/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Vatsal-Maske/LeetCode/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/Vatsal-Maske/LeetCode/tree/master/0877-stone-game) |
