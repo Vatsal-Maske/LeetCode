@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Vatsal-Maske/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Vatsal-Maske/LeetCode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Vatsal-Maske/LeetCode/tree/master/0443-string-compression) |
+| [0541-reverse-string-ii](https://github.com/Vatsal-Maske/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Vatsal-Maske/LeetCode/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Vatsal-Maske/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Vatsal-Maske/LeetCode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Vatsal-Maske/LeetCode/tree/master/0443-string-compression) |
+| [0541-reverse-string-ii](https://github.com/Vatsal-Maske/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Vatsal-Maske/LeetCode/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vatsal-Maske/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Vatsal-Maske/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
