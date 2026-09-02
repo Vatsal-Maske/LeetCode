@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Vatsal-Maske/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Vatsal-Maske/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vatsal-Maske/LeetCode/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/Vatsal-Maske/LeetCode/tree/master/0322-coin-change) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vatsal-Maske/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Vatsal-Maske/LeetCode/tree/master/0542-01-matrix) |
 | [0645-set-mismatch](https://github.com/Vatsal-Maske/LeetCode/tree/master/0645-set-mismatch) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Vatsal-Maske/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Vatsal-Maske/LeetCode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Vatsal-Maske/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/Vatsal-Maske/LeetCode/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Vatsal-Maske/LeetCode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Vatsal-Maske/LeetCode/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/Vatsal-Maske/LeetCode/tree/master/0877-stone-game) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Vatsal-Maske/LeetCode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Vatsal-Maske/LeetCode/tree/master/0542-01-matrix) |
 ## Game Theory
 |  |
@@ -223,4 +226,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vatsal-Maske/LeetCode/tree/master/0020-valid-parentheses) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Vatsal-Maske/LeetCode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Vatsal-Maske/LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
