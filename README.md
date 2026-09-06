@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Vatsal-Maske/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Vatsal-Maske/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Vatsal-Maske/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Vatsal-Maske/LeetCode/tree/master/0268-missing-number) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Vatsal-Maske/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Vatsal-Maske/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Vatsal-Maske/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Vatsal-Maske/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Vatsal-Maske/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Vatsal-Maske/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Vatsal-Maske/LeetCode/tree/master/0171-excel-sheet-column-number) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Vatsal-Maske/LeetCode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Vatsal-Maske/LeetCode/tree/master/0067-add-binary) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Vatsal-Maske/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Linked List
 |  |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vatsal-Maske/LeetCode/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/Vatsal-Maske/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Vatsal-Maske/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Vatsal-Maske/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Vatsal-Maske/LeetCode/tree/master/0168-excel-sheet-column-title) |
