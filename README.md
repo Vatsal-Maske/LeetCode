@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Vatsal-Maske/LeetCode/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Vatsal-Maske/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Vatsal-Maske/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Vatsal-Maske/LeetCode/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Vatsal-Maske/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Vatsal-Maske/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2643-row-with-maximum-ones](https://github.com/Vatsal-Maske/LeetCode/tree/master/2643-row-with-maximum-ones) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Vatsal-Maske/LeetCode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Vatsal-Maske/LeetCode/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/Vatsal-Maske/LeetCode/tree/master/0877-stone-game) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Vatsal-Maske/LeetCode/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Vatsal-Maske/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vatsal-Maske/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/Vatsal-Maske/LeetCode/tree/master/0542-01-matrix) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Vatsal-Maske/LeetCode/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2643-row-with-maximum-ones](https://github.com/Vatsal-Maske/LeetCode/tree/master/2643-row-with-maximum-ones) |
 ## Simulation
 |  |
