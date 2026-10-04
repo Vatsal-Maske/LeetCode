@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Vatsal-Maske/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Vatsal-Maske/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Vatsal-Maske/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Vatsal-Maske/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Vatsal-Maske/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Vatsal-Maske/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/Vatsal-Maske/LeetCode/tree/master/0136-single-number) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Vatsal-Maske/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Vatsal-Maske/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Vatsal-Maske/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Vatsal-Maske/LeetCode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Vatsal-Maske/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/Vatsal-Maske/LeetCode/tree/master/0322-coin-change) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Vatsal-Maske/LeetCode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Vatsal-Maske/LeetCode/tree/master/0055-jump-game) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Vatsal-Maske/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Stack
 |  |
