@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Vatsal-Maske/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Vatsal-Maske/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Vatsal-Maske/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0120-triangle](https://github.com/Vatsal-Maske/LeetCode/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/Vatsal-Maske/LeetCode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Vatsal-Maske/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vatsal-Maske/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Vatsal-Maske/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Vatsal-Maske/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Vatsal-Maske/LeetCode/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/Vatsal-Maske/LeetCode/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Vatsal-Maske/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/Vatsal-Maske/LeetCode/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Vatsal-Maske/LeetCode/tree/master/0509-fibonacci-number) |
