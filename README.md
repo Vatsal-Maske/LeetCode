@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Vatsal-Maske/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Vatsal-Maske/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2643-row-with-maximum-ones](https://github.com/Vatsal-Maske/LeetCode/tree/master/2643-row-with-maximum-ones) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Vatsal-Maske/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
